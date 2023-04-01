@@ -1,0 +1,114 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+    font-variant: small-caps;
+}
+
+.logo {
+    font-family: cursive;
+    font-size: 25px;
+    color: #8946A6!important;
+}
+
+.logo-image {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    margin-left: 20px;
+}
+
+.bg-color {
+    background-color: white;
+}
+
+.logo-image {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    margin-left: 170px;
+}
+
+.nav-text {
+    font-weight: bolder;
+}
+
+.nav-margin {
+    margin-left: 100px;
+}
+
+.nav-color {
+    font-size: 18px;
+    color: #8946A6!important;
+    font-weight: bolder;
+}
+
+.nav-color:hover {
+    color: #FF87CA!important;
+    text-decoration: underline;
+    transition: 0.6s;
+}
+
+.dp a {
+    color: #8946A6!important;
+    font-weight: bold;
+}
+
+.dp :hover {
+    background-color: #8946A6!important;
+    color: white!important;
+    font-weight: bold;
+}
+
+.heading {
+    text-align: center;
+    margin: 10px auto;
+    color: #F473B9;
+}
+
+.heading h3 {
+    color: rgb(128, 180, 217);
+}
+
+.info .col-sm {
+    padding: 10px;
+    font-size: 20px;
+}
+
+.btn {
+    color: #8946A6!important;
+    font-weight: bolder;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+    font-variant: small-caps;
+}
+
+.bg-info {
+    background-image: url(../media/antic.jpg);
+    background-size: cover;
+    width: 100vw;
+    height: 120vh;
+    position: relative;
+}
+
+.update {
+    margin-left: 50%;
+    width: 50vw;
+    height: auto;
+    margin: 12vh auto;
+    padding: 4vh;
+    background-color: azure;
+    border-radius: 10%;
+    color: rebeccapurple;
+    position: absolute;
+    top: 45%;
+    left: 25%;
+}
+
+hr {
+    border: 2px solid #8946A6;
+}

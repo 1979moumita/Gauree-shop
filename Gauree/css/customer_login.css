@@ -1,0 +1,95 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+    font-variant: small-caps;
+}
+
+body {
+    background-image: url(../media/antic.jpg);
+    background-size: cover;
+    width: 100vw;
+    height: auto;
+}
+
+.logo1 {
+    color: rebeccapurple;
+    font-family: 'Times New Roman', Times, serif;
+    font-variant: small-caps;
+}
+
+.btn {
+    color: rebeccapurple;
+}
+
+.login {
+    margin-left: 50%;
+    width: 50vw;
+    height: auto;
+    margin: 16vh auto;
+    padding: 6vh;
+    background-color: azure;
+    color: rebeccapurple;
+    margin-top: 150px;
+}
+
+.login a {
+    background-color: rebeccapurple;
+    color: white;
+    font-size: large;
+}
+
+.logo {
+    font-family: cursive;
+    font-size: 25px;
+    color: #8946A6!important;
+}
+
+.logo-image {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    margin-left: 20px;
+}
+
+.bg-color {
+    background-color: white;
+}
+
+.logo-image {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    margin-left: 170px;
+}
+
+.nav-text {
+    font-weight: bolder;
+}
+
+.nav-margin {
+    margin-left: 100px;
+}
+
+.nav-color {
+    font-size: 18px;
+    color: #8946A6!important;
+    font-weight: bolder;
+}
+
+.nav-color:hover {
+    color: #FF87CA!important;
+    text-decoration: underline;
+    transition: 0.6s;
+}
+
+.dp a {
+    color: #8946A6!important;
+    font-weight: bold;
+}
+
+.dp :hover {
+    background-color: #8946A6!important;
+    color: white!important;
+    font-weight: bold;
+}

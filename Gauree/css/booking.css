@@ -1,0 +1,29 @@
+*{
+    margin:0;
+    padding:0;
+}
+img{
+    width:100%;
+}
+.bg{
+    background-image:url("../media/gauree_product.jpg"); 
+    height: 210vh;
+    background-position:center;
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.box{
+    margin-top:100px;
+    background-color:white;
+    border-radius:10%;
+   
+    
+}
+.header{
+    color: #8946A6;
+    font-weight:bolder;
+}
+.text{
+    font-weight:bold;
+}
